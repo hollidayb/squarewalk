@@ -1,0 +1,9 @@
+Square Walk does not access the internet. No data is input or output through that medium.
+
+Square Walk creates, writes to, and réads from one file in an installation directory. Android does not require the app to have special permission to do this. Square Walk uses the file to reconstruct and continue a game in progress when needed. The file is occasionally deleted, and the user can also delete it (in the app's Settings). This file contains personal data: your GPS (Global Positioning System) location.
+
+Square Walk accesses GPS satellites to get location data. Data is input and output through the GPS medium. Please see the privacy policy for GPS here: https://www.gps.gov/policy/privacy
+
+If you play Square Walk games with a buddy, a Bluetooth connection is used in the two Android devices. Data is input and output through that medium -- when you play with a buddy, and with the Android devices close to each other. Square Walk was programmed to work with the original Bluetooth Classic interface, not Low Power.  Please see information about Bluetooth here: https://www.bluetooth.com
+
+Square Walk does not collect or access any personal data, except for what is stated above.
